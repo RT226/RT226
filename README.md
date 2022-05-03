@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RT226
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Spfx/React/Java
+- 🌱 I’m currently learning React/Spring/python/ML/Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
